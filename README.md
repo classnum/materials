@@ -1,1 +1,0 @@
-Ressources et conseils pour les cours du master [*Humanités classiques et humanités numériques*](https://hclassiques.parisnanterre.fr/) · université Paris-Nanterre · [Aurélien Berra](mailto:aurelien.berra@parisnanterre.fr)
