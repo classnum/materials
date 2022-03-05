@@ -32,5 +32,6 @@ search:
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false
 heading_anchors: true
+markdown: kramdown
 kramdown:
   smart_quotes: laquo,raquo,ldquo,rdquo,lsquo,rsquo
