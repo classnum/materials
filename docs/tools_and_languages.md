@@ -40,7 +40,7 @@ nav_order: 3
     * [MultiMarkdown Guide](https://rawgit.com/fletcher/human-markdown-reference/master/index.html)
 * [CriticMarkup](http://criticmarkup.com/)
     * Le Multimarkdown inclut la syntaxe CriticMarkup pour ses fonctions de révision.
-* [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (tutoriel)
+* [Sustainable Authorship in Plain Text](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) using Pandoc and Markdown (tutoriel)
 
 ## GitHub
 * [GitHub](https://github.com/)
@@ -98,7 +98,7 @@ nav_order: 3
     * À propos du HTML dans les blogs WordPress, dont notre carnet : [Beginning HTML](https://wordpress.com/support/beginning-html/) et [Advanced HTML](https://wordpress.com/support/advanced-html/)
     * W3C : [HTML Tutorial](https://www.w3schools.com/html/) (en anglais)
     * Mozilla : [Apprendre le Web > HTML](https://developer.mozilla.org/fr/Apprendre/HTML) (chaque page peut être affichée dans diverses langues)
-    * En français, sur OpenClassrooms : [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+    * En français, sur OpenClassrooms : [Apprenez à créer votre site web](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) avec HTML5 et CSS3
     * Exemples plus ou moins spectaculaires de styles CSS différents : [CSS Zen Garden](http://www.csszengarden.com)
 
 ## TEI (et XML)
@@ -109,10 +109,10 @@ nav_order: 3
     * Module 0 : [Introduction to Text Encoding and the TEI](https://teibyexample.org/tutorials/TBED00v00.htm)
     * Module 7 : [Critical Editing](https://teibyexample.org/tutorials/TBED07v00.htm)
     * [TBE validation service](https://teibyexample.org/tools/TBEvalidator.htm)
-* Marjorie Burghart et Elena Pierazzo, [Digital Scholarly Editions: Manuscripts, Texts and TEI Encoding](https://teach.dariah.eu/course/view.php?id=32) (vidéos)
+* Marjorie Burghart et Elena Pierazzo, [Digital Scholarly Editions](https://teach.dariah.eu/course/view.php?id=32): Manuscripts, Texts and TEI Encoding (vidéos)
 * Marjorie Burghart, [Éditer des sources historiques en ligne grâce à XML](http://mutec.huma-num.fr/?q=guides-Mutec) (guide)
 * Marjorie Burghart, [TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr/) (outil de visualisation)
-    * Voir l’article [The TEI Critical Apparatus Toolbox: Empowering Textual Scholars through Display, Control, and Comparison Features](https://journals.openedition.org/jtei/1520)
+    * Voir l’article [The TEI Critical Apparatus Toolbox](https://journals.openedition.org/jtei/1520): Empowering Textual Scholars through Display, Control, and Comparison Features
 * Lou Burnard, [*What is the Text Encoding Initiative?*](https://books.openedition.org/oep/426), 2014 (en accès libre)
 * [Guidelines of the Digital Latin Library](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) (conventions en cours de développement pour les apparats critiques, même complexes)
 * Scripts XSLT de transformation du XML-TEI en d’autres formats
@@ -134,7 +134,7 @@ nav_order: 3
     * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) et [en français](https://github.com/rstudio/cheatsheets/raw/master/translations/french/rstudio-ide_fr.pdf)
 * Trouver des réponses, poser des questions
     * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
-    * Forum [StackOverflow, recherche limitée aux discussions concernant R](https://stackoverflow.com/questions/tagged/r)
+    * Forum [StackOverflow](https://stackoverflow.com), recherche limitée aux [discussions concernant R](https://stackoverflow.com/questions/tagged/r)
     * [RSeek.org](https://rseek.org/) (moteur de recherche spécifique)
     * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d’utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique « Forum : quelques bonnes habitudes » du présent document
     * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
@@ -152,11 +152,11 @@ nav_order: 3
         * Cédric Scherer, [A Ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
         * Yannick Rochat, [Introduction à ggplot2](https://yrochat.github.io/ggplot2_tuto/ggplot2.nb.html)
         * Julien Barnier, [Visualiser avec ggplot2](https://juba.github.io/tidyverse/08-ggplot2.html)
-        * Garrick Aden-Buie, [A Gentle Guide to the Grammar of Graphics with ggplot2](https://pkg.garrickadenbuie.com/gentle-ggplot2/)
+        * Garrick Aden-Buie, [A Gentle Guide to the Grammar of Graphics](https://pkg.garrickadenbuie.com/gentle-ggplot2/)[ with ggplot2](https://pkg.garrickadenbuie.com/gentle-ggplot2/)
         * Isabella Benabaye, [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
     * [Shiny](https://shiny.rstudio.com/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
-    * [Reproducible Research and the Wonders of RMarkdown](https://alycerussell.github.io/ReproducibleResearchOct2019/#1), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
+    * [Reproducible Research and the Wonders](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)[ of RMarkdown](https://alycerussell.github.io/ReproducibleResearchOct2019/#1), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
 
 ## LaTeX
 * Pour produire des PDF avec Pandoc, notamment

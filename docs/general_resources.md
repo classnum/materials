@@ -78,7 +78,8 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * Autre possibilité : [Windows](https://michaellanglois.fr/fr/it/greek-with-french-keyboard-12-windows_grec-avec-clavier-francais-12-windows), [Mac](https://michaellanglois.fr/fr/it/clavier-grec-azerty-1-2-mac), [Linux](https://gitlab.com/outils-pour-le-grec/clavier-grec-ancien-azerty)
 * [Learn to Type Polytonic Greek in 30 Short Chapters](https://greektyping.com/)
 
-## Polices de caractères adaptées au grec et au latin
+## Polices de caractères
+* Utiliser des polices de caractères Unicode adaptées au grec polytonique et au latin étendu
 * [Libertinus Serif](https://fontlibrary.org/en/font/libertinus-serif) (ou Linux Libertine O)
 * [Gentium Plus](https://fontlibrary.org/en/font/gentium-plus)
 * [GFS Didot](https://fontlibrary.org/en/font/gfs-didot)
@@ -87,7 +88,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * Palatino Linotype
 * [Asea](https://fontlibrary.org/en/font/asea-textfonts)
 * [Lato](https://fontlibrary.org/en/font/lato) (sans empattements, *sans serif*)
-* Bonus culturel : [Sacrés caractères !](https://www.franceculture.fr/litterature/sacres-caracteres-une-webserie-de-12-films-courts-sur-des-polices-qui-ont-du-caractere), websérie de 12 films courts sur des polices de caractères historiquement importantes
+* Bonus typographique : [Sacrés caractères !](https://www.franceculture.fr/litterature/sacres-caracteres-une-webserie-de-12-films-courts-sur-des-polices-qui-ont-du-caractere), websérie de 12 films courts sur des polices de caractères historiquement importantes
 
 ## Dictionnaires
 * Pour consulter les dictionnaires usuels (Liddel-Scott-Jones, Bailly, Gaffiot) sous un format numérique, je vous recommande la plateforme [Logeion](https://logeion.uchicago.edu/).
@@ -108,7 +109,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
             * styles français : cherchez sur la page le mot « French »
             * voir aussi [csl-france](https://trello.com/b/ACMPVFQf/csl-france)
     * Groupes Zotero
-        * [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography)
+        * [Doing Digital Humanities](https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography) - A DARIAH Bibliography
         * [Digital Classics](https://www.zotero.org/groups/digitalclassics)
 * [WorldCat](https://www.worldcat.org/)
 * [Catalogue collectif de France](https://ccfr.bnf.fr/)
@@ -123,7 +124,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * Pour le latin, voir le portail du projet [Biblissima](https://portail.biblissima.fr/fr/bbma.view?datesspan_max=2000&datesspan_min=5&sliderDateleft=5&sliderDateright=1500&facet%3Aetype-facet=Manuscript&facet%3Adatesspan=5-1500) et directement les sites des bibliothèques
     * Quelques sites de bibliothèques contenant de riches collections numérisées
         * Paris, Bibliothèque nationale de France : [Gallica](https://gallica.bnf.fr/) et ses [manuscrits latins](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&query=(dc.language%20all%20"lat")%20and%20(dc.type%20all%20"manuscrit")%20and%20(gallicapublication_date<="1500"))
-        * France, [Bibliothèque virtuelle des manuscrits médiévaux (BVMM)](http://bvmm.irht.cnrs.fr/)
+        * France, Bibliothèque virtuelle des manuscrits médiévaux ([BVMM](http://bvmm.irht.cnrs.fr/))
         * Londres, [British Library](https://www.bl.uk/collection-guides/classical-latin-manuscripts#)
         * Oxford, [Bodleian Library](https://digital.bodleian.ox.ac.uk/)
         * Florence, [Biblioteca Medicea Laurenziana](http://mss.bmlonline.it/)
@@ -143,8 +144,8 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * [*Variants*](https://journals.openedition.org/variants/)
 * Comptes rendus
     * [Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/)
-    * [RIDE. A review journal for digital editions and resources](https://ride.i-d-e.de/)
-    * [Society for Classical Studies : digital projects reviews](https://classicalstudies.org/blogs/reviews)
+    * [RIDE](https://ride.i-d-e.de/). A review journal for digital editions and resources
+    * Society for Classical Studies : [digital projects reviews](https://classicalstudies.org/blogs/reviews)
 
 ## Bibliothèques en ligne
 * Grec et latin
@@ -169,9 +170,10 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * Dickinson College Commentaries, [Core Vocabulary](https://dcc.dickinson.edu/vocab/core-vocabulary) (listes des mots les plus fréquents en latin et en grec ancien)
 
 ## Prosopographie
-* [Standards for Networking Ancient Prosopographies. Data and Relations in Greco-Roman Names](https://snapdrgn.net/)
+* [Standards for Networking Ancient Prosopographies](https://snapdrgn.net/). Data and Relations in Greco-Roman Names
 
-## Données spatiales et systèmes d’information géographique (SIG)
+## Données spatiales et SIG
+* Projets liés à l'analyse des données spatiales, notamment aux systèmes d’information géographique (SIG)
 * [Rome Reborn](https://www.romereborn.org/)
 * [Orbis](https://orbis.stanford.edu)
 * [Projet Bretez](https://sites.google.com/site/louisbretez/home)
@@ -184,7 +186,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 ## Droit et licences
 * Licences [Creative Commons](https://creativecommons.org/licenses/)
 * Peter Suber, [*Open Access*](https://mitpress.mit.edu/books/open-access), 2012
-* Calimaq [Lionel Maurel], [S.I.Lex. Carnet de veille et de réflexion d’un juriste et bibliothécaire](https://scinfolex.com/)
+* Calimaq [Lionel Maurel], [S.I.Lex](https://scinfolex.com/). Carnet de veille et de réflexion d’un juriste et bibliothécaire
 * [*The Internet’s Own Boy: The Story of Aaron Swartz*](https://amara.org/fr/videos/5Mo4oAj1bxOb/info/the-internets-own-boy-the-story-of-aaron-swartz/), 2014
 * [*Paywall: The Business of Scholarship*](https://paywallthemovie.com/paywall) (film documentaire), 2018
 
