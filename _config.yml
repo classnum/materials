@@ -34,4 +34,4 @@ search:
 heading_anchors: true
 markdown: kramdown
 kramdown:
-  smart_quotes: laquo,raquo,ldquo,rdquo,lsquo,rsquo
+  smart_quotes: lsquo,rsquo,laquo,raquo
