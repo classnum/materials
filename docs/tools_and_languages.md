@@ -152,11 +152,11 @@ nav_order: 3
         * Cédric Scherer, [A Ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
         * Yannick Rochat, [Introduction à ggplot2](https://yrochat.github.io/ggplot2_tuto/ggplot2.nb.html)
         * Julien Barnier, [Visualiser avec ggplot2](https://juba.github.io/tidyverse/08-ggplot2.html)
-        * Garrick Aden-Buie, [A Gentle Guide to the Grammar of Graphics](https://pkg.garrickadenbuie.com/gentle-ggplot2/)[ with ggplot2](https://pkg.garrickadenbuie.com/gentle-ggplot2/)
+        * Garrick Aden-Buie, A Gentle Guide to the Grammar of Graphics with ggplot2 ([présentation](https://pkg.garrickadenbuie.com/gentle-ggplot2/))
         * Isabella Benabaye, [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
     * [Shiny](https://shiny.rstudio.com/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
-    * [Reproducible Research and the Wonders](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)[ of RMarkdown](https://alycerussell.github.io/ReproducibleResearchOct2019/#1), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
+    * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
 
 ## LaTeX
 * Pour produire des PDF avec Pandoc, notamment
