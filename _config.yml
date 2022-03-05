@@ -33,4 +33,4 @@ search:
 # Supports true (default) or false
 heading_anchors: true
 kramdown:
-  smart_quotes: ldquo,rdquo,lsquo,rsquo
+  smart_quotes: laquo,raquo,ldquo,rdquo,lsquo,rsquo
