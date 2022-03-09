@@ -6,7 +6,7 @@ nav_order: 99
 
 ## Texte
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit.
+"Lorem" ipsum 'dolor' sit «amet», consectetur « adipiscing » elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit.
 
 ## Image
 

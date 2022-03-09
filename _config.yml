@@ -32,3 +32,7 @@ search:
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false
 heading_anchors: true
+# Not using smart quote converter as quotes cannot include NBSPs
+# markdown: kramdown
+# kramdown:
+#   smart_quotes: ldquo,rdquo,laquo,raquo
