@@ -25,6 +25,7 @@ nav_order: 3
         * `Markdown Preview Plus`
         * `Linter Autocomplete Jing`
         * `TEI Framework`
+    * Le package Tablr fournit une interface visuelle aux fichiers CSV : dans les préférences, sous « Install », rechercher le package sous le nom `mfripp/atom-tablr`.
     * À l’installation d’un package, si vous recevez un message d’erreur mentionnant le langage Java, contrôlez qu’il est installé sur votre machine : voici le [lien de téléchargement](https://www.oracle.com/java/technologies/javase-downloads.html) (installez la version « Standard Edition », Java SE, si vous n’avez pas besoin de la version « Standard Edition Development Kit », JDK, destinée aux développeurs et que certains logiciels nécessitent).
 * Autres éditeurs gratuits
     * Mac : [Sublime Text](https://www.sublimetext.com/)
