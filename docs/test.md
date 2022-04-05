@@ -23,4 +23,4 @@ Balise `iframe` en HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuNfdHNTv9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Balise `video` en HTML
-<video width="560" height="315" src="https://www.youtube.com/embed/nuNfdHNTv9o"></video>
+<video width="560" height="315" src="https://github.com/MC1897/Drame-satyrique-site2/blob/main/assets/videos/es18_video1.mp4"></video>
