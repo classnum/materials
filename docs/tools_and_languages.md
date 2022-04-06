@@ -137,6 +137,7 @@ nav_order: 3
     * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
     * Forum [StackOverflow](https://stackoverflow.com), recherche limitée aux [discussions concernant R](https://stackoverflow.com/questions/tagged/r)
     * [RSeek.org](https://rseek.org/) (moteur de recherche spécifique)
+    * [The R-universe system](https://r-universe.dev/) (moteur de recherche spécifique)
     * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d’utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique « Forum : quelques bonnes habitudes » du présent document
     * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
 * Quelques références sur R
