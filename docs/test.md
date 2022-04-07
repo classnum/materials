@@ -24,13 +24,3 @@ Balise `iframe` en HTML
 
 Balise `video` en HTML
 <video width="560" height="315" src="https://github.com/MC1897/Drame-satyrique-site2/blob/main/assets/videos/es18_video1.mp4"></video>
-
-
-
-
-https://user-images.githubusercontent.com/1230441/162153218-0866c2f8-5f41-4bca-b6de-35a4c89c08f5.mp4
-
-
-
-https://user-images.githubusercontent.com/1230441/162153373-b8c414b3-02df-4d56-b91c-77ae52bf278d.mp4
-
