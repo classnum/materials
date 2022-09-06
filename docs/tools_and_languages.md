@@ -17,7 +17,21 @@ nav_order: 3
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Qwant](https://www.qwant.com/)
 
-## Éditeur de texte : Atom
+## Éditeur de texte : Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
+    * [Documentation](https://code.visualstudio.com/docs)
+    * Extensions à installer dans le logiciel
+        * `Markdown All in One`
+        * `markdownlint`
+        * `Markdown Preview Enhanced`
+        * `Rainbow CSV`
+        * `Scholarly XML`
+* Autres éditeurs gratuits
+    * Nous utilisions auparavant [Atom](https://atom.io), qui deviendra bientôt [obsolète](https://github.blog/2022-06-08-sunsetting-atom/).
+    * Mac : [Sublime Text](https://www.sublimetext.com/)
+    * Linux : Gedit (installé par défaut)
+    * Windows : [Notepad++](https://notepad-plus-plus.org/)
+<!-- ## Éditeur de texte : Atom
 * [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
     * [Guide](https://flight-manual.atom.io/getting-started/sections/atom-basics/)
     * Packages à installer depuis les préférences d’Atom
@@ -31,8 +45,9 @@ nav_order: 3
     * Mac : [Sublime Text](https://www.sublimetext.com/)
     * Linux : Gedit (installé par défaut)
     * Windows : [Notepad++](https://notepad-plus-plus.org/)
+-->
 
-## Markdown
+ ## Markdown
 * [Tutoriel d’introduction](https://commonmark.org/help/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
     * Le [bac à sable](https://daringfireball.net/projects/markdown/dingus) permet de faire des essais.
