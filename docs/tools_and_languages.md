@@ -31,6 +31,7 @@ nav_order: 3
     * Mac : [Sublime Text](https://www.sublimetext.com/)
     * Linux : Gedit (installé par défaut)
     * Windows : [Notepad++](https://notepad-plus-plus.org/)
+
 <!-- ## Éditeur de texte : Atom
 * [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
     * [Guide](https://flight-manual.atom.io/getting-started/sections/atom-basics/)
@@ -47,7 +48,7 @@ nav_order: 3
     * Windows : [Notepad++](https://notepad-plus-plus.org/)
 -->
 
- ## Markdown
+## Markdown
 * [Tutoriel d’introduction](https://commonmark.org/help/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
     * Le [bac à sable](https://daringfireball.net/projects/markdown/dingus) permet de faire des essais.
