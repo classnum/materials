@@ -158,7 +158,10 @@ nav_order: 3
     * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d’utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique « Forum : quelques bonnes habitudes » du présent document
     * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
 * Quelques références sur R
-    * Garrett Grolemund, [R objects](https://rstudio-education.github.io/hopr/r-objects.html)
+    * Types de données (*modes*) : numeric, integer, complex, character (and string of characters), factor, logical (boolean) + `NULL`, `NA`
+    * Structures de données (*classes*) : vector, factor, matrix, array, list, data frame/tibble, time series
+        * Garrett Grolemund, [R objects](https://rstudio-education.github.io/hopr/r-objects.html)
+        * First Steps in R, [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html)
     * [Initiation au langage et objets de R](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor2-R-init.pdf)
     * Kieran Healy, [How to read an R help page](https://socviz.co/appendix.html)
     * [R for Data Science](https://r4ds.had.co.nz) : [modèle d’un projet d’analyse de données](https://r4ds.had.co.nz/introduction.html)
@@ -176,10 +179,6 @@ nav_order: 3
     * [Shiny](https://shiny.rstudio.com/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
     * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
-* Types (*modes*) et structures de données (*classes*) en R
-    * Types de données : numeric, integer, complex, character, factor, logical + `NULL`, `NA`
-    * [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html) (aperçu, représentation visuelle et exemples)
-    * Garett Grolemund, [représentation visuelle](https://raw.githubusercontent.com/classnum/materials/main/assets/images/r_data_objects_grolemund.png)
 
 ## LaTeX
 * Pour produire des PDF avec Pandoc, notamment
