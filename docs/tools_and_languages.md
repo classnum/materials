@@ -149,6 +149,7 @@ nav_order: 3
 * [RStudio](https://www.rstudio.com/products/rstudio/)
 * [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
     * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) et [en français](https://github.com/rstudio/cheatsheets/raw/master/translations/french/rstudio-ide_fr.pdf)
+    * [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
 * Trouver des réponses, poser des questions
     * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
     * Forum [StackOverflow](https://stackoverflow.com), recherche limitée aux [discussions concernant R](https://stackoverflow.com/questions/tagged/r)
@@ -175,6 +176,10 @@ nav_order: 3
     * [Shiny](https://shiny.rstudio.com/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
     * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
+* Types (*modes*) et structures de données (*classes*) en R
+    * Types de données : numeric, integer, complex, character, factor, logical + `NULL`, `NA`
+    * [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html) (aperçu, représentation visuelle et exemples)
+    * Garett Grolemund, [représentation visuelle](https://raw.githubusercontent.com/classnum/materials/main/assets/images/r_data_objects_grolemund.png)
 
 ## LaTeX
 * Pour produire des PDF avec Pandoc, notamment
