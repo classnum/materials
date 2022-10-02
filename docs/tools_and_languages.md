@@ -26,6 +26,7 @@ nav_order: 3
         * `Markdown Preview Enhanced`
         * `Rainbow CSV`
         * `Scholarly XML`
+        * `HTMLHint`
 * Autres éditeurs gratuits
     * Nous utilisions auparavant [Atom](https://atom.io), qui deviendra bientôt [obsolète](https://github.blog/2022-06-08-sunsetting-atom/).
     * Mac : [Sublime Text](https://www.sublimetext.com/)
@@ -117,6 +118,9 @@ nav_order: 3
     * Mozilla : [Apprendre le Web > HTML](https://developer.mozilla.org/fr/Apprendre/HTML) (chaque page peut être affichée dans diverses langues)
     * En français, sur OpenClassrooms : [Apprenez à créer votre site web](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) avec HTML5 et CSS3
     * Exemples plus ou moins spectaculaires de styles CSS différents : [CSS Zen Garden](http://www.csszengarden.com)
+* Outils de validation
+    * [HTML Validator](https://jsonformatter.org/html-validator)
+    * [HTMLHint](https://htmlhint-playground.netlify.app/)
 
 ## TEI (et XML)
 * [TEI Consortium](https://tei-c.org/)
