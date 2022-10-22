@@ -22,11 +22,13 @@ nav_order: 3
     * [Documentation](https://code.visualstudio.com/docs)
     * Extensions à installer dans le logiciel
         * `Markdown All in One`
-        * `markdownlint`
         * `Markdown Preview Enhanced`
-        * `Rainbow CSV`
-        * `Scholarly XML`
+        * `markdownlint`
+        * `CriticMarkup for Visual Studio Code`
         * `HTMLHint`
+        * `Scholarly XML`
+        * `Prettier - Code formatter`
+        * `Rainbow CSV`
 * Autres éditeurs gratuits
     * Nous utilisions auparavant [Atom](https://atom.io), qui deviendra bientôt [obsolète](https://github.blog/2022-06-08-sunsetting-atom/).
     * Mac : [Sublime Text](https://www.sublimetext.com/)
@@ -137,7 +139,7 @@ nav_order: 3
 * Lou Burnard, [*What is the Text Encoding Initiative?*](https://books.openedition.org/oep/426), 2014 (en accès libre)
 * [Guidelines of the Digital Latin Library](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) (conventions en cours de développement pour les apparats critiques, même complexes)
 * Scripts XSLT de transformation du XML-TEI en d’autres formats
-    * TEI Stylesheets : plateforme [OxGarage](https://oxgarage.tei-c.org/) et [scripts sur GitHub](https://github.com/TEIC/Stylesheets/)
+    * TEI Stylesheets : plateforme [TEIgarage](https://teigarage.tei-c.org/) et [scripts sur GitHub](https://github.com/TEIC/Stylesheets/)
     * [DLL Stylesheets](https://github.com/DigitalLatin/DLL-Stylesheets) (versions remaniées par l’équipe de la Digital Latin Library)
 
 ## Voyant Tools
