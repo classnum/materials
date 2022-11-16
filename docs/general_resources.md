@@ -174,10 +174,10 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 
 ## Données spatiales et SIG
 * Projets liés à l'analyse des données spatiales, notamment aux systèmes d’information géographique (SIG)
-* [Rome Reborn](https://www.romereborn.org/)
-* [Orbis](https://orbis.stanford.edu)
-* [Projet Bretez](https://sites.google.com/site/louisbretez/home)
-* [Virtual St Paul’s Cathedral Project](https://vpcp.chass.ncsu.edu/)
+* [Rome Reborn](https://www.flyoverzone.com/rome-reborn-flight-over-rome/), à partir du [portail](https://www.youtube.com/playlist?list=PLrehWLfDwATgSujXiZWcEvQJScVycFZow)
+* [Orbis. The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)
+* Projet Bretez : [Visite de Paris, seconde moitié du XVIIIe siècle](https://www.youtube.com/watch?v=0UOGXWYL8ug&feature=youtu.be) et [site du projet](https://sites.google.com/site/louisbretez/accueil)
+* [Virtual St Paul’s Cathedral Project](https://vpcathedral.chass.ncsu.edu/)
 * [Pelagios](https://pelagios.org/) et [Recogito](https://recogito.pelagios.org/)
 * [Pleiades](https://pleiades.stoa.org/)
 * [Google Ancient Places](https://googleancientplaces.wordpress.com/about/)
