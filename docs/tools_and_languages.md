@@ -36,7 +36,7 @@ nav_order: 3
         * `Geo Data Viewer` : visualiser des données cartographiques
         * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
 * Autres éditeurs gratuits
-    * Nous utilisions auparavant [Atom](https://atom.io), qui deviendra bientôt [obsolète](https://github.blog/2022-06-08-sunsetting-atom/).
+    * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
     * Mac : [Sublime Text](https://www.sublimetext.com/)
     * Linux : Gedit (installé par défaut)
     * Windows : [Notepad++](https://notepad-plus-plus.org/)
