@@ -14,6 +14,7 @@ nav_order: 2
 </details>
 
 ## Ressources du cours
+
 * Carnet [Classiques et numériques](https://classnum.hypotheses.org/)
 * Bibliothèque partagée sur [Zotero](https://www.zotero.org) : groupe [Classnum](https://www.zotero.org/groups/294880/classnum/library) (sur invitation)
 * Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
@@ -25,6 +26,7 @@ nav_order: 2
 <!-- * [HN1 : questionnaire de début de S1]() @todo -->
 
 ## Forum : quelques bonnes habitudes
+
 * Si vous écrivez vos messages sur le forum en Markdown, comme je vous le suggère (regardez les préférences de votre compte sur CEL), utilisez lorsque c’est utile des apostrophes inversées pour baliser le code :
 
 Ceci est une `expression` affichée comme du code au sein d’un texte (*inline*), car notée ainsi : \`expression\`.
@@ -73,12 +75,14 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * `And_aFew.People_RENOUNCEconvention.txt`
 
 ## Écrire grec en Unicode
+
 * Écrire en grec ancien (grec polytonique) avec un clavier Unicode
     * [Page ENS](https://antiquite.ens.psl.eu/ressources/outils-logiciels/article/pilotes-de-clavier-unicode)
     * Autre possibilité : [Windows](https://michaellanglois.fr/fr/it/greek-with-french-keyboard-12-windows_grec-avec-clavier-francais-12-windows), [Mac](https://michaellanglois.fr/fr/it/clavier-grec-azerty-1-2-mac), [Linux](https://gitlab.com/outils-pour-le-grec/clavier-grec-ancien-azerty)
 * [Learn to Type Polytonic Greek in 30 Short Chapters](https://greektyping.com/)
 
 ## Polices de caractères
+
 * Utiliser des polices de caractères Unicode adaptées au grec polytonique et au latin étendu
 * [Libertinus Serif](https://fontlibrary.org/en/font/libertinus-serif) (ou Linux Libertine O)
 * [Gentium Plus](https://fontlibrary.org/en/font/gentium-plus)
@@ -91,23 +95,27 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * Bonus typographique : [Sacrés caractères !](https://www.franceculture.fr/litterature/sacres-caracteres-une-webserie-de-12-films-courts-sur-des-polices-qui-ont-du-caractere), websérie de 12 films courts sur des polices de caractères historiquement importantes
 
 ## Dictionnaires
+
 * Pour consulter les dictionnaires usuels (Liddel-Scott-Jones, Bailly, Gaffiot) sous un format numérique, je vous recommande la plateforme [Logeion](https://logeion.uchicago.edu/).
 * Autres interfaces disponibles : [Bailly](https://bailly.app/), [Gaffiot](https://gaffiot.fr/)
 * À propos de la numérisation des dictionnaires français : [Gaffiot 2016](http://gerardgreco.free.fr/spip.php?article43) et [Bailly 2020](http://gerardgreco.free.fr/spip.php?article52)
 
 ## Digital Classics : sites d’information
+
 * [Stoa Consortium](https://www.stoa.org/)
 * [Digital Classicist](https://wiki.digitalclassicist.org/)
 
 ## Bibliographie, dont Zotero
+
 * [Zotero](https://www.zotero.org/)
     * Un très complet [tutoriel](https://www.boiteaoutils.info/2012/06/introduction-zotero-30-nouveau-tutoriel/) (également accessible [ici](https://issuu.com/emilienruiz/docs/zotero_19-06-2012))
     * [Les styles de citation](https://www.zotero.org/support/fr/styles)
         * [Citation Styles Library](https://citationstyles.org/)
             * CSL [specifications](https://docs.citationstyles.org/en/stable/specification.html)
-        * [Zotero Style Repository](https://www.zotero.org/styles)        
+        * [Zotero Style Repository](https://www.zotero.org/styles)
             * styles français : cherchez sur la page le mot « French »
             * voir aussi [csl-france](https://trello.com/b/ACMPVFQf/csl-france)
+    * Johanna Daniel, « [Ode à Zotero, une décennie d’usage de Zotero](https://ig.hypotheses.org/2789) », *Isidore & Ganesh*, 2022
     * Groupes Zotero
         * [Doing Digital Humanities](https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography) - A DARIAH Bibliography
         * [Digital Classics](https://www.zotero.org/groups/digitalclassics)
@@ -148,6 +156,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * Society for Classical Studies : [digital projects reviews](https://classicalstudies.org/blogs/reviews)
 
 ## Bibliothèques en ligne
+
 * Grec et latin
     * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
         * À consulter de préférence dans l’interface plus récente [Scaife Viewer](https://scaife.perseus.org/) lorsque les textes y sont disponibles
@@ -167,12 +176,15 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * [Project Gutenberg](https://www.gutenberg.org/)
 
 ## Vocabulaire grec et latin
+
 * Dickinson College Commentaries, [Core Vocabulary](https://dcc.dickinson.edu/vocab/core-vocabulary) (listes des mots les plus fréquents en latin et en grec ancien)
 
 ## Prosopographie
+
 * [Standards for Networking Ancient Prosopographies](https://snapdrgn.net/). Data and Relations in Greco-Roman Names
 
 ## Données spatiales et SIG
+
 * Projets liés à l'analyse des données spatiales, notamment aux systèmes d’information géographique (SIG)
 * [Rome Reborn](https://www.flyoverzone.com/rome-reborn-flight-over-rome/), à partir du [portail](https://www.youtube.com/playlist?list=PLrehWLfDwATgSujXiZWcEvQJScVycFZow)
 * [Orbis. The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)
@@ -184,6 +196,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * [Hestia](https://hestia.open.ac.uk/)
 
 ## Droit et licences
+
 * Licences [Creative Commons](https://creativecommons.org/licenses/)
 * Peter Suber, [*Open Access*](https://mitpress.mit.edu/books/open-access), 2012
 * Calimaq [Lionel Maurel], [S.I.Lex](https://scinfolex.com/). Carnet de veille et de réflexion d’un juriste et bibliothécaire
@@ -191,6 +204,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * [*Paywall: The Business of Scholarship*](https://paywallthemovie.com/paywall) (film documentaire), 2018
 
 ## Histoire et géopolitique de l’informatique
+
 * [A History of the Internet and Computing in 71 Seconds](https://www.youtube.com/watch?v=QCw8f3-cIzU)
 * Computer History Museum, [Revolution. The First 2000 Years of Computing](https://www.computerhistory.org/revolution/)
 * [How the Internet works](https://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile/)
@@ -198,5 +212,6 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * [Linking Open Data cloud diagram](https://lod-cloud.net/)
 
 ## Méthodes d’apprentissage automatique
+
 * Vasily Zubarev, [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 * Stephanie Yee et Tony Chu, [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
