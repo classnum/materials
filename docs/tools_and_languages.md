@@ -23,14 +23,18 @@ nav_order: 3
 * [Visual Studio Code](https://code.visualstudio.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
     * [Documentation](https://code.visualstudio.com/docs)
     * Extensions à installer dans le logiciel
-        * `Markdown All in One`
-        * `Markdown Preview Enhanced`
-        * `markdownlint`
-        * `CriticMarkup for Visual Studio Code`
-        * `HTMLHint`
-        * `Scholarly XML`
-        * `Prettier - Code formatter`
-        * `Rainbow CSV`
+        * `Markdown All in One` : faciliter l'usage du Markdown
+        * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
+        * `markdownlint` : *linter* pour le Markdown
+        * `CriticMarkup for Visual Studio Code` : faciliter l'usage du CriticMarkup
+        * `HTMLHint` : *linter* pour le HTML
+        * `Scholarly XML` : faciliter l'usage du XML et du XML-TEI
+        * `Prettier - Code formatter` : harmoniser la présentation de votre code
+        * `Rainbow CSV` : faciliter l'usage du CSV (commandes *align* et *shrink*)
+        * `Diff` : visualiser les différences entre deux fichiers de texte brut
+        * `CSL Preview` : prévisualiser un style bibliographique CSL
+        * `Geo Data Viewer` : visualiser des données cartographiques
+        * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
 * Autres éditeurs gratuits
     * Nous utilisions auparavant [Atom](https://atom.io), qui deviendra bientôt [obsolète](https://github.blog/2022-06-08-sunsetting-atom/).
     * Mac : [Sublime Text](https://www.sublimetext.com/)
