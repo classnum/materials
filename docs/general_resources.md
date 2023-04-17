@@ -31,7 +31,7 @@ nav_order: 2
 
 Ceci est une `expression` affichée comme du code au sein d’un texte (*inline*), car notée ainsi : \`expression\`.
 
-```
+```code
 Ceci est un paragraphe de code (affiché comme *blockquote*),
 ```
 
