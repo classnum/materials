@@ -157,7 +157,7 @@ nav_order: 3
 
 ## Voyant Tools
 
-* [Site canadien](https://voyant-tools.org/), [site français](https://voyant-tools.huma-num.fr/)
+* [Plateforme en ligne](https://voyant-tools.org/) (serveur canadien)
 * Aurélien Berra, [Introduction à Voyant Tools](https://github.com/aurelberra/voyant_tools/blob/master/tutorial/voyant_tools_intro_fr.md)
 
 <!-- ## AntConc
@@ -167,9 +167,9 @@ nav_order: 3
 ## R et RStudio
 
 * [R](https://cran.r-project.org/)
-* [RStudio](https://www.rstudio.com/products/rstudio/)
-* [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-    * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) et [en français](https://github.com/rstudio/cheatsheets/raw/master/translations/french/rstudio-ide_fr.pdf)
+* [RStudio](https://posit.co/products/open-source/rstudio/)
+* [RStudio cheatsheets](https://rstudio.github.io/cheatsheets/)
+    * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html) et [en français](https://rstudio.github.io/cheatsheets/translations/french/rstudio-ide_fr.pdf)
     * [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
 * Trouver des réponses, poser des questions
     * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
@@ -185,7 +185,7 @@ nav_order: 3
         * First Steps in R, [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html)
     * [Initiation au langage et objets de R](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor2-R-init.pdf)
     * Kieran Healy, [How to read an R help page](https://socviz.co/appendix.html)
-    * [R for Data Science](https://r4ds.had.co.nz) : [modèle d’un projet d’analyse de données](https://r4ds.had.co.nz/introduction.html)
+    * [R for Data Science](https://r4ds.hadley.nz/) : [modèle d’un projet d’analyse de données](https://r4ds.hadley.nz/intro)
 * Packages du Tidyverse : [documentation](https://www.tidyverse.org/packages/)
     * Hadley Wickham, [*The tidyverse style guide*](https://style.tidyverse.org/)
 * Représentation graphique avec ggplot2
@@ -197,7 +197,7 @@ nav_order: 3
         * Julien Barnier, [Visualiser avec ggplot2](https://juba.github.io/tidyverse/08-ggplot2.html)
         * Garrick Aden-Buie, A Gentle Guide to the Grammar of Graphics with ggplot2 ([présentation](https://pkg.garrickadenbuie.com/gentle-ggplot2/))
         * Isabella Benabaye, [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
-    * [Shiny](https://shiny.rstudio.com/gallery/), interfaces dynamiques pour ggplot2
+    * [Shiny](https://shiny.posit.co/r/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
     * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
 
