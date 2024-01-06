@@ -66,7 +66,7 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a> · Jekyll
+      <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a> · <button class="btn js-toggle-dark-mode" style="padding: 3px 6px 3px 6px">Dark/Light</button>
     </footer>
   </div>
   <div class="main" id="top">
@@ -199,4 +199,19 @@ layout: table_wrappers
     {% endif %}
   </div>
 </body>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Dark';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Light';
+  }
+});
+</script>
+
 </html>
