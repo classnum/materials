@@ -13,6 +13,11 @@ nav_order: 3
 {:toc}
 </details>
 
+## Navigateurs
+
+* [Firefox](https://www.mozilla.org/firefox/new/) (libre)
+* [Google Chrome](https://www.google.com/chrome/) (hégémonique)
+
 ## Moteurs de recherche
 
 * [DuckDuckGo](https://duckduckgo.com/)
