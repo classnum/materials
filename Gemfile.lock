@@ -276,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-pipeline
+  jekyll
   just-the-docs
   nokogiri
   webrick

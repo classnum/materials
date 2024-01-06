@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 gem "nokogiri"
 gem "github-pages"
+gem "jekyll"
 gem "just-the-docs"
 gem "webrick"
 gem "html-pipeline"
