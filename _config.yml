@@ -1,6 +1,6 @@
 # DEPLOY with this command: bundle exec jekyll serve
 title: "HCHN · Matériaux"
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pmarsceill/just-the-docs
 # logo: "/assets/images/test_logo.png"
 aux_links:
   "Carnet Classnum": "https://classnum.hypotheses.org/"
