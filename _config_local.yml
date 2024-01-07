@@ -1,10 +1,14 @@
 # DEPLOY with this command: bundle exec jekyll serve --livereload --config _config_local.yml
 title: "HCHN · Matériaux"
-theme: 'just-the-docs' # for local test
+description: "Matériaux pour les cours d'humanités numériques du master HCHN"
+repository: classnum/materials # for github-metadata
+permalink: pretty
+theme: just-the-docs
 # logo: "/assets/images/test_logo.png"
 aux_links:
   "Carnet Classnum": "https://classnum.hypotheses.org/"
   "Entrepôt Github": "https://github.com/classnum"
+aux_links_new_tab: true
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
@@ -29,7 +33,21 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+enable_copy_code_button: true
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false
 heading_anchors: true
+# Not using smart quote converter as quotes cannot include NBSPs
+# markdown: kramdown
+# kramdown:
+#   smart_quotes: ldquo,rdquo,laquo,raquo
+# Footer content
+# appears at the bottom of every page's main content
+# Back to top link
+# back_to_top: true
+# back_to_top_text: "⤴︎"
+footer_content: '&copy; Aurélien Berra 2022- · <a href=\"https://github.com/classnum/materials/tree/main/LICENSE.txt\">Licence MIT</a>'
+# Footer last edited timestamp
+# last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+# last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
