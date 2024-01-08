@@ -14,7 +14,7 @@ nav_order: 99
 
 ![](https://aurelienberra.org/temp/pn_img/isocrate_panathenaique_urbinas_111.png)
 
-![MacMarcianus](/assets/images/hn.png)
+![MacMarcianus](../../assets/images/hn.png)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif)
 
