@@ -119,9 +119,7 @@ nav_order: 3
 
 * Expressions rationnelles (ou régulières, d’où l’abréviation « regex »), pour réaliser requêtes et transformations avancées
 * `?regex`
-* Rappels très clairs et adaptés à RStudio
-    * [Work with Strings Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/), page 2 (*cheat sheet* du package `stringr`, utile même si vous n’utilisez pas ce package)
-    * [RegExCheatsheet](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
+* Rappels très clairs et adaptés à RStudio : [Work with Strings Cheat Sheet](https://rstudio.github.io/cheatsheets/html/strings.html#regular-expressions) (*cheat sheet* du package `stringr`, version HTML en ligne ou page 2 de la version PDF)
 * [R et les expressions régulières](https://thinkr.fr/r-les-expressions-regulieres/)
 * Exercices interactifs : [Regexone](https://regexone.com/)
 * Apprendre et tester en ligne : [Regex101](https://regex101.com/)
