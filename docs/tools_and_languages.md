@@ -37,14 +37,15 @@ nav_order: 3
         * `Prettier - Code formatter` : harmoniser la présentation de votre code
         * `Rainbow CSV` : faciliter l'usage du CSV (commandes *align* et *shrink*)
         * `Diff` : visualiser les différences entre deux fichiers de texte brut
+        * `Text Pastry` : générer des séquences de nombres et autres opérations sur le texte
         * `CSL Preview` : prévisualiser un style bibliographique CSL
         * `Geo Data Viewer` : visualiser des données cartographiques
         * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
 * Autres éditeurs gratuits
-    * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
-    * Mac : [Sublime Text](https://www.sublimetext.com/)
     * Linux : Gedit (installé par défaut)
+    * Mac : [Sublime Text](https://www.sublimetext.com/)
     * Windows : [Notepad++](https://notepad-plus-plus.org/)
+    * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
 
 <!-- ## Éditeur de texte : Atom
 * [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
@@ -212,7 +213,7 @@ nav_order: 3
 
 ## OCR : Tesseract
 
-* [Tesseract](https://tesseract-ocr.github.io/tessdoc/)
+* [Tesseract](https://tesseract-ocr.github.io/tessdoc/) : voir notre script partagé
 
 ## Open Refine
 
