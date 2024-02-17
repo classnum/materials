@@ -251,3 +251,12 @@ nav_order: 3
     * Un projet pour exemple : [Carte des philosophes antiques](https://ciris.huma-num.fr/cartographie.php) et [une carte de ce projet dans uMap](https://umap.openstreetmap.fr/fr/map/cartographie-des-philosophes-antiques-periode-arch_468426#6/38.255/24.192)
 * [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer), extension à installer dans VSCode pour travailler sur les données localement
 * Coordonnées des [pays du monde entier](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/), à télécharger au format KML ou GeoJSON sur le site Opendatasoft
+
+## Publier en ligne un site ou une édition
+
+* [GitHub Pages](https://pages.github.com/) (site créé à partir d'un entrepôt sur GitHub)
+    * Exemple : nos [matériaux](https://classnum.github.io/materials/), à partir de l'[entrepôt](https://github.com/classnum/materials) et avec le thème [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
+    * Déployer un site en local : [documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+* [Ed](https://minicomp.github.io/ed/), thème Jekyll pour des éditions minimales
+* [Wax](https://minicomp.github.io/wax/), thème Jekyll pour des expositions minimales
+* [Edition Visualization Technology (EVT)](http://evt.labcd.unipi.it/), pour publier en ligne une édition numérique encodée en XML, avec apparat critique et images de manuscrits
