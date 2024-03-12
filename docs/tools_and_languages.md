@@ -261,3 +261,9 @@ nav_order: 3
 * [Wax](https://minicomp.github.io/wax/), thème Jekyll pour des expositions minimales
 * [Edition Visualization Technology (EVT)](http://evt.labcd.unipi.it/), pour publier en ligne une édition numérique encodée en XML, avec apparat critique et images de manuscrits
     * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin de l'application dépend de votre système d'exploitation) avec l'option levant la restriction d'ouverture de fichiers locaux : `--allow-file-access-from-files`.
+
+## Intertextualité (*text reuse detection*)
+
+* [Tesserae](https://tesserae.caset.buffalo.edu/) ([GitHub](https://github.com/tesserae/tesserae))
+* [Medite](http://obvil.lip6.fr/medite/)
+
