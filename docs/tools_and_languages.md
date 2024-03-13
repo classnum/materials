@@ -82,6 +82,7 @@ nav_order: 3
     * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) : principes généraux et utilisation de GitHub sur le Web
     * [GitHub Desktop](https://desktop.github.com/) : interface graphique
 * Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
+* Sur un Mac, c'est une bonne habitude d'ajouter le fichier `.DS_Store` ([métadonnées](https://fr.wikipedia.org/wiki/.DS_Store) cachées qui n'ont d'intérêt qu'en local) au fichier `.gitignore` ([explications](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)), pour éviter de le synchroniser avec l'entrepôt.
 
 ## Terminal Unix
 
