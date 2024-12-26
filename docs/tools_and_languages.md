@@ -26,26 +26,42 @@ nav_order: 3
 ## Éditeur de texte : Visual Studio Code
 
 * [Visual Studio Code](https://code.visualstudio.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
-    * [Documentation](https://code.visualstudio.com/docs)
-    * Extensions à installer dans le logiciel
-        * `Markdown All in One` : faciliter l'usage du Markdown
-        * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
-        * `markdownlint` : *linter* pour le Markdown
-        * `CriticMarkup for Visual Studio Code` : faciliter l'usage du CriticMarkup
-        * `HTMLHint` : *linter* pour le HTML
-        * `Scholarly XML` : faciliter l'usage du XML et du XML-TEI
-        * `Prettier - Code formatter` : harmoniser la présentation de votre code
-        * `Rainbow CSV` : faciliter l'usage du CSV (commandes *align* et *shrink*)
-        * `Diff` : visualiser les différences entre deux fichiers de texte brut
-        * `Text Pastry` : générer des séquences de nombres et autres opérations sur le texte
-        * `CSL Preview` : prévisualiser un style bibliographique CSL
-        * `Geo Data Viewer` : visualiser des données cartographiques
-        * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
+  * [Documentation](https://code.visualstudio.com/docs)
+  * Extensions à installer dans le logiciel
+    * `Markdown All in One` : faciliter l'usage du Markdown
+    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
+    * `markdownlint` : *linter* pour le Markdown
+    * `CriticMarkup for Visual Studio Code` : faciliter l'usage du CriticMarkup
+    * `HTMLHint` : *linter* pour le HTML
+    * `Scholarly XML` : faciliter l'usage du XML et du XML-TEI
+    * `Prettier - Code formatter` : harmoniser la présentation de votre code
+    * `Rainbow CSV` : faciliter l'usage du CSV (commandes *align* et *shrink*)
+    * `Diff` : visualiser les différences entre deux fichiers de texte brut
+    * `Text Pastry` : générer des séquences de nombres et autres opérations sur le texte
+    * `CSL Preview` : prévisualiser un style bibliographique CSL
+    * `Geo Data Viewer` : visualiser des données cartographiques
+    * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
+* [VS Codium](https://vscodium.com/) en est la version libre, sans transmission de données télémétriques à Microsoft
+  * Extensions à installer dans le logiciel
+    * `Markdown All in One` : faciliter l'usage du Markdown
+    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
+    * `markdownlint` : *linter* pour le Markdown
+    * `HTMLHint` : *linter* pour le HTML
+    * `Scholarly XML` : faciliter l'usage du XML et du XML-TEI
+    * `Prettier - Code formatter` : harmoniser la présentation de votre code
+    * `Rainbow CSV` : faciliter l'usage du CSV (commandes *align* et *shrink*)
+    * `Geo Data Viewer` : visualiser des données cartographiques
+    * `Data Preview` : manipuler des données (utilisée par l'extension précédente)
+    * Télécharger les fichiers VSIX depuis [Marketplace](https://marketplace.visualstudio.com/vscode) et installer (optionnel)
+      * `CriticMarkup for Visual Studio Code` : faciliter l'usage du CriticMarkup
+      * `Diff` : visualiser les différences entre deux fichiers de texte brut
+      * `Text Pastry` : générer des séquences de nombres et autres opérations sur le texte
+      * `CSL Preview` : prévisualiser un style bibliographique CSL
 * Autres éditeurs gratuits
-    * Linux : Gedit (installé par défaut)
-    * Mac : [Sublime Text](https://www.sublimetext.com/)
-    * Windows : [Notepad++](https://notepad-plus-plus.org/)
-    * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
+  * Linux : Gedit (installé par défaut)
+  * Mac : [Sublime Text](https://www.sublimetext.com/)
+  * Windows : [Notepad++](https://notepad-plus-plus.org/)
+  * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
 
 <!-- ## Éditeur de texte : Atom
 * [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
@@ -67,20 +83,20 @@ nav_order: 3
 
 * [Tutoriel d’introduction](https://commonmark.org/help/)
 * [Markdown](https://daringfireball.net/projects/markdown/)
-    * Le [bac à sable](https://daringfireball.net/projects/markdown/dingus) permet de faire des essais.
+  * Le [bac à sable](https://daringfireball.net/projects/markdown/dingus) permet de faire des essais.
 * [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
-    * Le Multimarkdown est une extension du Markdown qui inclut des fonctions essentielles pour nous : notes, citations, marques de révision, tableaux, images, etc.
-    * [MultiMarkdown Guide](https://rawgit.com/fletcher/human-markdown-reference/master/index.html)
+  * Le Multimarkdown est une extension du Markdown qui inclut des fonctions essentielles pour nous : notes, citations, marques de révision, tableaux, images, etc.
+  * [MultiMarkdown Guide](https://rawgit.com/fletcher/human-markdown-reference/master/index.html)
 * [CriticMarkup](http://criticmarkup.com/)
-    * Le Multimarkdown inclut la syntaxe CriticMarkup pour ses fonctions de révision.
+  * Le Multimarkdown inclut la syntaxe CriticMarkup pour ses fonctions de révision.
 * [Sustainable Authorship in Plain Text](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) using Pandoc and Markdown (tutoriel)
 
 ## GitHub
 
 * [GitHub](https://github.com/)
-    * Sunoikisis Digital Classics, « Open Source software, command line and Git », 2020 : [présentation de Git](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3177), puis [présentation de GitHub](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3599)
-    * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) : principes généraux et utilisation de GitHub sur le Web
-    * [GitHub Desktop](https://desktop.github.com/) : interface graphique
+  * Sunoikisis Digital Classics, « Open Source software, command line and Git », 2020 : [présentation de Git](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3177), puis [présentation de GitHub](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3599)
+  * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) : principes généraux et utilisation de GitHub sur le Web
+  * [GitHub Desktop](https://desktop.github.com/) : interface graphique
 * Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
 * Sur un Mac, c'est une bonne habitude d'ajouter le fichier `.DS_Store` ([métadonnées](https://fr.wikipedia.org/wiki/.DS_Store) cachées qui n'ont d'intérêt qu'en local) au fichier `.gitignore` ([explications](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)), pour éviter de le synchroniser avec l'entrepôt.
 
@@ -129,36 +145,36 @@ nav_order: 3
 ## HTML
 
 * Pour information
-    * [HTML - Wikipedia (EN)](https://en.wikipedia.org/wiki/HTML), [HTML - Wikipedia (FR)](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
-    * Les documents officiels (*specifications*) qui décrivent [HTML 4.01](https://www.w3.org/TR/html401/) et [HTML 5 (en cours d’élaboration)](https://html.spec.whatwg.org/). Sachez que le XHTML a été une étape d’évolution du HTML.
+  * [HTML - Wikipedia (EN)](https://en.wikipedia.org/wiki/HTML), [HTML - Wikipedia (FR)](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+  * Les documents officiels (*specifications*) qui décrivent [HTML 4.01](https://www.w3.org/TR/html401/) et [HTML 5 (en cours d’élaboration)](https://html.spec.whatwg.org/). Sachez que le XHTML a été une étape d’évolution du HTML.
 * Tutoriels
-    * À propos du HTML dans les blogs WordPress, dont notre carnet : [Beginning HTML](https://wordpress.com/support/beginning-html/) et [Advanced HTML](https://wordpress.com/support/advanced-html/)
-    * W3C : [HTML Tutorial](https://www.w3schools.com/html/) (en anglais)
-    * Mozilla : [Apprendre le Web > HTML](https://developer.mozilla.org/fr/Apprendre/HTML) (chaque page peut être affichée dans diverses langues)
-    * En français, sur OpenClassrooms : [Apprenez à créer votre site web](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) avec HTML5 et CSS3
-    * Exemples plus ou moins spectaculaires de styles CSS différents : [CSS Zen Garden](http://www.csszengarden.com)
+  * À propos du HTML dans les blogs WordPress, dont notre carnet : [Beginning HTML](https://wordpress.com/support/beginning-html/) et [Advanced HTML](https://wordpress.com/support/advanced-html/)
+  * W3C : [HTML Tutorial](https://www.w3schools.com/html/) (en anglais)
+  * Mozilla : [Apprendre le Web > HTML](https://developer.mozilla.org/fr/Apprendre/HTML) (chaque page peut être affichée dans diverses langues)
+  * En français, sur OpenClassrooms : [Apprenez à créer votre site web](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) avec HTML5 et CSS3
+  * Exemples plus ou moins spectaculaires de styles CSS différents : [CSS Zen Garden](http://www.csszengarden.com)
 * Outils de validation
-    * [HTML Validator](https://jsonformatter.org/html-validator)
-    * [HTMLHint](https://htmlhint-playground.netlify.app/)
+  * [HTML Validator](https://jsonformatter.org/html-validator)
+  * [HTMLHint](https://htmlhint-playground.netlify.app/)
 
 ## TEI (et XML)
 
 * [TEI Consortium](https://tei-c.org/)
-    * [TEI Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html) (site de référence)
-    * Liste de discussion de la TEI : [TEI-L](https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L)
+  * [TEI Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html) (site de référence)
+  * Liste de discussion de la TEI : [TEI-L](https://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-L)
 * [TEI by Example](https://teibyexample.org/exist/TBE.htm) (tutoriel, exercices et exemples)
-    * Module 0 : [Introduction to Text Encoding and the TEI](https://teibyexample.org/exist/tutorials/TBED00v00.htm)
-    * Module 7 : [Critical Editing](https://teibyexample.org/exist/tutorials/TBED07v00.htm)
-    * [TBE validation service](https://teibyexample.org/exist/tools/TBEvalidator.htm)
+  * Module 0 : [Introduction to Text Encoding and the TEI](https://teibyexample.org/exist/tutorials/TBED00v00.htm)
+  * Module 7 : [Critical Editing](https://teibyexample.org/exist/tutorials/TBED07v00.htm)
+  * [TBE validation service](https://teibyexample.org/exist/tools/TBEvalidator.htm)
 * Marjorie Burghart et Elena Pierazzo, [Digital Scholarly Editions](https://teach.dariah.eu/course/view.php?id=32): Manuscripts, Texts and TEI Encoding (vidéos)
 * Marjorie Burghart, [Éditer des sources historiques en ligne grâce à XML](http://mutec.huma-num.fr/?q=guides-Mutec) (guide)
 * Marjorie Burghart, [TEI Critical Apparatus Toolbox](http://teicat.huma-num.fr/) (outil de visualisation)
-    * Voir l’article [The TEI Critical Apparatus Toolbox](https://journals.openedition.org/jtei/1520): Empowering Textual Scholars through Display, Control, and Comparison Features
+  * Voir l’article [The TEI Critical Apparatus Toolbox](https://journals.openedition.org/jtei/1520): Empowering Textual Scholars through Display, Control, and Comparison Features
 * Lou Burnard, [*What is the Text Encoding Initiative?*](https://books.openedition.org/oep/426), 2014 (en accès libre)
 * [Guidelines of the Digital Latin Library](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) (conventions en cours de développement pour les apparats critiques, même complexes)
 * Scripts XSLT de transformation du XML-TEI en d’autres formats
-    * TEI Stylesheets : plateforme [TEIgarage](https://teigarage.tei-c.org/) et [scripts sur GitHub](https://github.com/TEIC/Stylesheets/)
-    * [DLL Stylesheets](https://github.com/DigitalLatin/DLL-Stylesheets) (versions remaniées par l’équipe de la Digital Latin Library)
+  * TEI Stylesheets : plateforme [TEIgarage](https://teigarage.tei-c.org/) et [scripts sur GitHub](https://github.com/TEIC/Stylesheets/)
+  * [DLL Stylesheets](https://github.com/DigitalLatin/DLL-Stylesheets) (versions remaniées par l’équipe de la Digital Latin Library)
 
 ## Voyant Tools
 
@@ -174,37 +190,37 @@ nav_order: 3
 * [R](https://cran.r-project.org/)
 * [RStudio](https://posit.co/products/open-source/rstudio/)
 * [RStudio cheatsheets](https://rstudio.github.io/cheatsheets/)
-    * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html) et [en français](https://rstudio.github.io/cheatsheets/translations/french/rstudio-ide_fr.pdf)
-    * [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
+  * Tour détaillé de l’environnement de travail de RStudio : [en anglais](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html) et [en français](https://rstudio.github.io/cheatsheets/translations/french/rstudio-ide_fr.pdf)
+  * [Base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
 * Trouver des réponses, poser des questions
-    * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
-    * Forum [StackOverflow](https://stackoverflow.com), recherche limitée aux [discussions concernant R](https://stackoverflow.com/questions/tagged/r)
-    * [RSeek.org](https://rseek.org/) (moteur de recherche spécifique)
-    * [The R-universe system](https://r-universe.dev/) (moteur de recherche spécifique)
-    * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d’utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique « Forum : quelques bonnes habitudes » du présent document
-    * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
+  * Copier un message d’erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
+  * Forum [StackOverflow](https://stackoverflow.com), recherche limitée aux [discussions concernant R](https://stackoverflow.com/questions/tagged/r)
+  * [RSeek.org](https://rseek.org/) (moteur de recherche spécifique)
+  * [The R-universe system](https://r-universe.dev/) (moteur de recherche spécifique)
+  * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d’utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique « Forum : quelques bonnes habitudes » du présent document
+  * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
 * Quelques références sur R
-    * Types de données (*modes*) : numeric, integer, complex, character (and string of characters), factor, logical (boolean) + `NULL`, `NA`
-    * Structures de données (*classes*) : vector, factor, matrix, array, list, data frame/tibble, time series
-        * Garrett Grolemund, [R objects](https://rstudio-education.github.io/hopr/r-objects.html)
-        * First Steps in R, [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html)
-    * [Initiation au langage et objets de R](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor2-R-init.pdf)
-    * Kieran Healy, [How to read an R help page](https://socviz.co/appendix.html)
-    * [R for Data Science](https://r4ds.hadley.nz/) : [modèle d’un projet d’analyse de données](https://r4ds.hadley.nz/intro)
+  * Types de données (*modes*) : numeric, integer, complex, character (and string of characters), factor, logical (boolean) + `NULL`, `NA`
+  * Structures de données (*classes*) : vector, factor, matrix, array, list, data frame/tibble, time series
+    * Garrett Grolemund, [R objects](https://rstudio-education.github.io/hopr/r-objects.html)
+    * First Steps in R, [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html)
+  * [Initiation au langage et objets de R](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor2-R-init.pdf)
+  * Kieran Healy, [How to read an R help page](https://socviz.co/appendix.html)
+  * [R for Data Science](https://r4ds.hadley.nz/) : [modèle d’un projet d’analyse de données](https://r4ds.hadley.nz/intro)
 * Packages du Tidyverse : [documentation](https://www.tidyverse.org/packages/)
-    * Hadley Wickham, [*The tidyverse style guide*](https://style.tidyverse.org/)
+  * Hadley Wickham, [*The tidyverse style guide*](https://style.tidyverse.org/)
 * Représentation graphique avec ggplot2
-    * [Site de référence](https://ggplot2.tidyverse.org/) du package ggplot2
-    * Quelques tutoriels et ouvrages
-        * Kieran Healy, [Data Visualization](https://socviz.co/) (version préliminaire en ligne de Healy Kieran, *Data Visualization: A Practical Introduction*, Princeton, Princeton University Press, 2019)
-        * Cédric Scherer, [A Ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
-        * Yannick Rochat, [Introduction à ggplot2](https://yrochat.github.io/ggplot2_tuto/ggplot2.nb.html)
-        * Julien Barnier, [Visualiser avec ggplot2](https://juba.github.io/tidyverse/08-ggplot2.html)
-        * Garrick Aden-Buie, A Gentle Guide to the Grammar of Graphics with ggplot2 ([présentation](https://pkg.garrickadenbuie.com/gentle-ggplot2/))
-        * Isabella Benabaye, [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
-    * [Shiny](https://shiny.posit.co/r/gallery/), interfaces dynamiques pour ggplot2
+  * [Site de référence](https://ggplot2.tidyverse.org/) du package ggplot2
+  * Quelques tutoriels et ouvrages
+    * Kieran Healy, [Data Visualization](https://socviz.co/) (version préliminaire en ligne de Healy Kieran, *Data Visualization: A Practical Introduction*, Princeton, Princeton University Press, 2019)
+    * Cédric Scherer, [A Ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+    * Yannick Rochat, [Introduction à ggplot2](https://yrochat.github.io/ggplot2_tuto/ggplot2.nb.html)
+    * Julien Barnier, [Visualiser avec ggplot2](https://juba.github.io/tidyverse/08-ggplot2.html)
+    * Garrick Aden-Buie, A Gentle Guide to the Grammar of Graphics with ggplot2 ([présentation](https://pkg.garrickadenbuie.com/gentle-ggplot2/))
+    * Isabella Benabaye, [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
+  * [Shiny](https://shiny.posit.co/r/gallery/), interfaces dynamiques pour ggplot2
 * RMarkdown
-    * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
+  * Reproducible Research and the Wonders of RMarkdown ([présentation](https://alycerussell.github.io/ReproducibleResearchOct2019/#1)), en particulier [What is this wizardry?!](https://alycerussell.github.io/ReproducibleResearchOct2019/#44) et [What is RMarkdown?](https://alycerussell.github.io/ReproducibleResearchOct2019/#46)
 
 ## LaTeX
 
@@ -243,25 +259,25 @@ nav_order: 3
 * [Omeka](https://omeka.org/classic/) (exposition de métadonnées et de documents)
 * [Tropy](https://tropy.org/) (gestion personnelle de collections d’images de recherche)
 * IIIF, [International Image Interoperability Framework](https://iiif.io/)
-    * Illustration de la mise en œuvre de ce protocole sur la [page API IIIF de récupération des images de Gallica](http://api.bnf.fr/api-iiif-de-recuperation-des-images-de-gallica)
+  * Illustration de la mise en œuvre de ce protocole sur la [page API IIIF de récupération des images de Gallica](http://api.bnf.fr/api-iiif-de-recuperation-des-images-de-gallica)
 
 ## Cartographie
 
 * [uMap](https://umap.openstreetmap.fr/fr), outil de cartographie en ligne
-    * [Documentation](https://wiki.openstreetmap.org/wiki/UMap/Guide)
-    * Un projet pour exemple : [Carte des philosophes antiques](https://ciris.huma-num.fr/cartographie.php) et [une carte de ce projet dans uMap](https://umap.openstreetmap.fr/fr/map/cartographie-des-philosophes-antiques-periode-arch_468426#6/38.255/24.192)
+  * [Documentation](https://wiki.openstreetmap.org/wiki/UMap/Guide)
+  * Un projet pour exemple : [Carte des philosophes antiques](https://ciris.huma-num.fr/cartographie.php) et [une carte de ce projet dans uMap](https://umap.openstreetmap.fr/fr/map/cartographie-des-philosophes-antiques-periode-arch_468426#6/38.255/24.192)
 * [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer), extension à installer dans VSCode pour travailler sur les données localement
 * Coordonnées des [pays du monde entier](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/), à télécharger au format KML ou GeoJSON sur le site Opendatasoft
 
 ## Publier en ligne un site ou une édition
 
 * [GitHub Pages](https://pages.github.com/) (site créé à partir d'un entrepôt sur GitHub)
-    * Exemple : nos [matériaux](https://classnum.github.io/materials/), à partir de l'[entrepôt](https://github.com/classnum/materials) et avec le thème [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
-    * Déployer un site en local : [documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+  * Exemple : nos [matériaux](https://classnum.github.io/materials/), à partir de l'[entrepôt](https://github.com/classnum/materials) et avec le thème [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
+  * Déployer un site en local : [documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 * [Ed](https://minicomp.github.io/ed/), thème Jekyll pour des éditions minimales
 * [Wax](https://minicomp.github.io/wax/), thème Jekyll pour des expositions minimales
 * [Edition Visualization Technology (EVT)](http://evt.labcd.unipi.it/), pour publier en ligne une édition numérique encodée en XML, avec apparat critique et images de manuscrits
-    * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin de l'application dépend de votre système d'exploitation) avec l'option levant la restriction d'ouverture de fichiers locaux : `--allow-file-access-from-files`. Exemple de commande complète pour un ordinateur sous MacOS : `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --allow-file-access-from-files`. Ouvrir ensuite dans Chrome le fichier `index.html`.
+  * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin de l'application dépend de votre système d'exploitation) avec l'option levant la restriction d'ouverture de fichiers locaux : `--allow-file-access-from-files`. Exemple de commande complète pour un ordinateur sous MacOS : `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --allow-file-access-from-files`. Ouvrir ensuite dans Chrome le fichier `index.html`.
 
 ## Intertextualité (*text reuse detection*)
 
