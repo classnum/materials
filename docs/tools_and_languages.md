@@ -62,6 +62,7 @@ nav_order: 3
   * Mac : [Sublime Text](https://www.sublimetext.com/)
   * Windows : [Notepad++](https://notepad-plus-plus.org/)
   * Nous utilisions auparavant [Atom](https://atom.io), dont l'[obsolescence](https://github.blog/2022-06-08-sunsetting-atom/) a été programmée.
+    * [Pulsar](https://pulsar-edit.dev/) en est un *fork* libre prometteur
 
 <!-- ## Éditeur de texte : Atom
 * [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
