@@ -65,29 +65,19 @@ de données télémétriques à Microsoft
       sur le texte
       * `CSL Preview` : prévisualiser un style bibliographique CSL
 * Autres éditeurs gratuits
+  * Toutes plateformes : [Pulsar](https://pulsar-edit.dev/)
+    * [Documentation](https://pulsar-edit.dev/docs/)
+    * Packages à installer depuis la [plateforme](https://web.pulsar-edit.dev/)
+      * `Language Markdown`
+      * `Markdown Preview Plus`
+      * `Linter Autocomplete Jing`
+      * `TEI Framework`
+    * Nous utilisions auparavant [Atom](https://atom.io), projet dont
+    l’obsolescence a été programmée après son rachat par Microsoft et qui a été
+    arrêté en 2023. Pulsar en est un *fork* libre prometteur.
   * Linux : Gedit (installé par défaut)
   * Mac : [Sublime Text](https://www.sublimetext.com/)
   * Windows : [Notepad++](https://notepad-plus-plus.org/)
-  * Nous utilisions auparavant [Atom](https://atom.io), projet dont
-  l’obsolescence a été programmée et qui a été arrêté en 2023.
-    * [Pulsar](https://pulsar-edit.dev/) (avec ses
-    [packages](https://web.pulsar-edit.dev/)) en est un *fork* libre prometteur.
-
-<!-- ## Éditeur de texte : Atom
-* [Atom](https://atom.io) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
-    * [Guide](https://flight-manual.atom.io/getting-started/sections/atom-basics/)
-    * Packages à installer depuis les préférences d’Atom
-        * `Language Markdown`
-        * `Markdown Preview Plus`
-        * `Linter Autocomplete Jing`
-        * `TEI Framework`
-    * Le package Tablr fournit une interface visuelle aux fichiers CSV : dans les préférences, sous « Install », rechercher le package sous le nom `mfripp/atom-tablr`.
-    * À l’installation d’un package, si vous recevez un message d’erreur mentionnant le langage Java, contrôlez qu’il est installé sur votre machine : voici le [lien de téléchargement](https://www.oracle.com/java/technologies/javase-downloads.html) (installez la version « Standard Edition », Java SE, si vous n’avez pas besoin de la version « Standard Edition Development Kit », JDK, destinée aux développeurs et que certains logiciels nécessitent).
-* Autres éditeurs gratuits
-    * Mac : [Sublime Text](https://www.sublimetext.com/)
-    * Linux : Gedit (installé par défaut)
-    * Windows : [Notepad++](https://notepad-plus-plus.org/)
--->
 
 ## Markdown
 
@@ -337,7 +327,7 @@ publier en ligne une édition numérique encodée en XML, avec apparat critique 
 images de manuscrits
   * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin
   de l’application dépend de votre système d’exploitation) avec l’option levant
-  la restriction d’ouverture de fichiers locaux :
+  la restriction d’ouverture de fichiers locaux :
   `--allow-file-access-from-files`. Exemple de commande complète pour un
   ordinateur sous MacOS : `"/Applications/Google
   Chrome.app/Contents/MacOS/Google Chrome" --allow-file-access-from-files`.
