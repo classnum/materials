@@ -267,9 +267,11 @@ version PDF)
 * Pour installer LaTeX, suivre les [instructions du site de Pandoc](https://pandoc.org/installing.html)
 * [(Xe)LaTeX appliqué aux sciences humaines](https://geekographie.maieul.net/95) (introduction pertinente et francophone)
 
-## OCR : Tesseract
+## OCR
 
-* [Tesseract](https://tesseract-ocr.github.io/tessdoc/) : voir notre script partagé
+* [Tesseract](https://tesseract-ocr.github.io/tessdoc/) : voir notre script
+Rpartagé
+* [Transkribus](https://www.transkribus.org/fr), plateforme d’OCR
 
 ## Open Refine
 
