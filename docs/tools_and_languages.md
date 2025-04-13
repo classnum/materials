@@ -106,6 +106,7 @@ de données télémétriques à Microsoft
   * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) :
   principes généraux et utilisation de GitHub sur le Web
   * [GitHub Desktop](https://desktop.github.com/) : interface graphique
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 * Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
 * Sur un Mac, c’est une bonne habitude d’ajouter le fichier `.DS_Store`
 ([métadonnées](https://fr.wikipedia.org/wiki/.DS_Store) cachées qui n’ont
