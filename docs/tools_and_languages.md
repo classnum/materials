@@ -325,14 +325,7 @@ sur le site Opendatasoft
 * [Wax](https://minicomp.github.io/wax/), thème Jekyll pour des expositions minimales
 * [Edition Visualization Technology (EVT)](http://evt.labcd.unipi.it/), pour
 publier en ligne une édition numérique encodée en XML, avec apparat critique et
-images de manuscrits
-  * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin
-  de l’application dépend de votre système d’exploitation) avec l’option levant
-  la restriction d’ouverture de fichiers locaux :
-  `--allow-file-access-from-files`. Exemple de commande complète pour un
-  ordinateur sous MacOS : `"/Applications/Google
-  Chrome.app/Contents/MacOS/Google Chrome" --allow-file-access-from-files`.
-  Ouvrir ensuite dans Chrome le fichier `index.html`.
+images de manuscrits (voir le mode d’emploi que je vous fournis)
 
 ## Intertextualité (*text reuse detection*)
 
