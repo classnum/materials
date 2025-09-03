@@ -23,28 +23,12 @@ nav_order: 3
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Qwant](https://www.qwant.com/)
 
-## Éditeur de texte : Visual Studio Code
+## Éditeur de texte : VSCodium/Visual Studio Code
 
-* [Visual Studio Code](https://code.visualstudio.com/) est l’éditeur que nous
-utilisons ensemble, disponible pour tout système d’exploitation
-  * [Documentation](https://code.visualstudio.com/docs)
-  * Extensions à installer dans le logiciel
-    * `Markdown All in One` : faciliter l’usage du Markdown
-    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
-    * `markdownlint` : *linter* pour le Markdown
-    * `CriticMarkup for Visual Studio Code` : faciliter l’usage du CriticMarkup
-    * `HTMLHint` : *linter* pour le HTML
-    * `Scholarly XML` : faciliter l’usage du XML et du XML-TEI
-    * `Prettier - Code formatter` : harmoniser la présentation de votre code
-    * `Rainbow CSV` : faciliter l’usage du CSV (commandes *align* et *shrink*)
-    * `Diff` : visualiser les différences entre deux fichiers de texte brut
-    * `Text Pastry` : générer séquences de nombres et autres opérations sur le
-    texte
-    * `CSL Preview` : prévisualiser un style bibliographique CSL
-    * `Geo Data Viewer` : visualiser des données cartographiques
-    * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
-* [VS Codium](https://vscodium.com/) en est la version libre, sans transmission
-de données télémétriques à Microsoft
+* [VSCodium](https://vscodium.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
+  * C’est la version libre de Visual Studio Code, sans transmission de données
+télémétriques à Microsoft
+  * Documentation de [VSCodium](https://github.com/VSCodium/vscodium/blob/master/docs/index.md)
   * Extensions à installer dans le logiciel
     * `Markdown All in One` : faciliter l’usage du Markdown
     * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
@@ -64,6 +48,23 @@ de données télémétriques à Microsoft
       * `Text Pastry` : générer des séquences de nombres et autres opérations
       sur le texte
       * `CSL Preview` : prévisualiser un style bibliographique CSL
+* [Visual Studio Code](<https://code.visualstudio.com/>)
+  * [Documentation de Visual Studio Code](<https://code.visualstudio.com/docs>)
+  * Extensions à installer dans le logiciel
+    * `Markdown All in One` : faciliter l’usage du Markdown
+    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
+    * `markdownlint` : *linter* pour le Markdown
+    * `CriticMarkup for Visual Studio Code` : faciliter l’usage du CriticMarkup
+    * `HTMLHint` : *linter* pour le HTML
+    * `Scholarly XML` : faciliter l’usage du XML et du XML-TEI
+    * `Prettier - Code formatter` : harmoniser la présentation de votre code
+    * `Rainbow CSV` : faciliter l’usage du CSV (commandes *align* et *shrink*)
+    * `Diff` : visualiser les différences entre deux fichiers de texte brut
+    * `Text Pastry` : générer séquences de nombres et autres opérations sur le
+    texte
+    * `CSL Preview` : prévisualiser un style bibliographique CSL
+    * `Geo Data Viewer` : visualiser des données cartographiques
+    * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
 * Autres éditeurs gratuits
   * Toutes plateformes : [Pulsar](https://pulsar-edit.dev/)
     * [Documentation](https://pulsar-edit.dev/docs/)
