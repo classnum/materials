@@ -28,7 +28,7 @@ nav_order: 3
 * [VSCodium](https://vscodium.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
   * C’est la version libre de Visual Studio Code, sans transmission de données
 télémétriques à Microsoft
-  * Documentation de [VSCodium](https://github.com/VSCodium/vscodium/blob/master/docs/index.md)
+  * [Documentation](https://github.com/VSCodium/vscodium/blob/master/docs/index.md)
   * Extensions à installer dans le logiciel
     * `Markdown All in One` : faciliter l’usage du Markdown
     * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
@@ -39,9 +39,7 @@ télémétriques à Microsoft
     * `Rainbow CSV` : faciliter l’usage du CSV (commandes *align* et *shrink*)
     * `Geo Data Viewer` : visualiser des données cartographiques
     * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
-    * Télécharger les fichiers VSIX depuis
-    [Marketplace](https://marketplace.visualstudio.com/vscode) et installer
-    (optionnel)
+    * Télécharger les fichiers VSIX depuis [Marketplace](https://marketplace.visualstudio.com/vscode) et installer (optionnel)
       * `CriticMarkup for Visual Studio Code` : faciliter l’usage du
       CriticMarkup
       * `Diff` : visualiser les différences entre deux fichiers de texte brut
@@ -49,7 +47,7 @@ télémétriques à Microsoft
       sur le texte
       * `CSL Preview` : prévisualiser un style bibliographique CSL
 * [Visual Studio Code](<https://code.visualstudio.com/>)
-  * [Documentation de Visual Studio Code](<https://code.visualstudio.com/docs>)
+  * [Documentation](<https://code.visualstudio.com/docs>)
   * Extensions à installer dans le logiciel
     * `Markdown All in One` : faciliter l’usage du Markdown
     * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
