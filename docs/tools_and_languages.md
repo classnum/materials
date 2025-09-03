@@ -23,11 +23,31 @@ nav_order: 3
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Qwant](https://www.qwant.com/)
 
-## Éditeur de texte : Visual Studio Code
+## Éditeur de texte : VSCodium/Visual Studio Code
 
-* [Visual Studio Code](https://code.visualstudio.com/) est l’éditeur que nous
-utilisons ensemble, disponible pour tout système d’exploitation
-  * [Documentation](https://code.visualstudio.com/docs)
+* [VSCodium](https://vscodium.com/) est l’éditeur que nous utilisons ensemble, disponible pour tout système d’exploitation
+  * C’est la version libre de Visual Studio Code, sans transmission de données
+télémétriques à Microsoft
+  * [Documentation](https://github.com/VSCodium/vscodium/blob/master/docs/index.md)
+  * Extensions à installer dans le logiciel
+    * `Markdown All in One` : faciliter l’usage du Markdown
+    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
+    * `markdownlint` : *linter* pour le Markdown
+    * `HTMLHint` : *linter* pour le HTML
+    * `Scholarly XML` : faciliter l’usage du XML et du XML-TEI
+    * `Prettier - Code formatter` : harmoniser la présentation de votre code
+    * `Rainbow CSV` : faciliter l’usage du CSV (commandes *align* et *shrink*)
+    * `Geo Data Viewer` : visualiser des données cartographiques
+    * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
+    * Télécharger les fichiers VSIX depuis [Marketplace](https://marketplace.visualstudio.com/vscode) et installer (optionnel)
+      * `CriticMarkup for Visual Studio Code` : faciliter l’usage du
+      CriticMarkup
+      * `Diff` : visualiser les différences entre deux fichiers de texte brut
+      * `Text Pastry` : générer des séquences de nombres et autres opérations
+      sur le texte
+      * `CSL Preview` : prévisualiser un style bibliographique CSL
+* [Visual Studio Code](<https://code.visualstudio.com/>)
+  * [Documentation](<https://code.visualstudio.com/docs>)
   * Extensions à installer dans le logiciel
     * `Markdown All in One` : faciliter l’usage du Markdown
     * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
@@ -43,27 +63,6 @@ utilisons ensemble, disponible pour tout système d’exploitation
     * `CSL Preview` : prévisualiser un style bibliographique CSL
     * `Geo Data Viewer` : visualiser des données cartographiques
     * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
-* [VS Codium](https://vscodium.com/) en est la version libre, sans transmission
-de données télémétriques à Microsoft
-  * Extensions à installer dans le logiciel
-    * `Markdown All in One` : faciliter l’usage du Markdown
-    * `Markdown Preview Enhanced` : mieux prévisualiser le Markdown
-    * `markdownlint` : *linter* pour le Markdown
-    * `HTMLHint` : *linter* pour le HTML
-    * `Scholarly XML` : faciliter l’usage du XML et du XML-TEI
-    * `Prettier - Code formatter` : harmoniser la présentation de votre code
-    * `Rainbow CSV` : faciliter l’usage du CSV (commandes *align* et *shrink*)
-    * `Geo Data Viewer` : visualiser des données cartographiques
-    * `Data Preview` : manipuler des données (utilisée par l’extension précédente)
-    * Télécharger les fichiers VSIX depuis
-    [Marketplace](https://marketplace.visualstudio.com/vscode) et installer
-    (optionnel)
-      * `CriticMarkup for Visual Studio Code` : faciliter l’usage du
-      CriticMarkup
-      * `Diff` : visualiser les différences entre deux fichiers de texte brut
-      * `Text Pastry` : générer des séquences de nombres et autres opérations
-      sur le texte
-      * `CSL Preview` : prévisualiser un style bibliographique CSL
 * Autres éditeurs gratuits
   * Toutes plateformes : [Pulsar](https://pulsar-edit.dev/)
     * [Documentation](https://pulsar-edit.dev/docs/)
@@ -106,6 +105,7 @@ de données télémétriques à Microsoft
   * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) :
   principes généraux et utilisation de GitHub sur le Web
   * [GitHub Desktop](https://desktop.github.com/) : interface graphique
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 * Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
 * Sur un Mac, c’est une bonne habitude d’ajouter le fichier `.DS_Store`
 ([métadonnées](https://fr.wikipedia.org/wiki/.DS_Store) cachées qui n’ont
@@ -326,14 +326,7 @@ sur le site Opendatasoft
 * [Wax](https://minicomp.github.io/wax/), thème Jekyll pour des expositions minimales
 * [Edition Visualization Technology (EVT)](http://evt.labcd.unipi.it/), pour
 publier en ligne une édition numérique encodée en XML, avec apparat critique et
-images de manuscrits
-  * Pour travailler en local, ouvrir Google Chrome depuis le terminal (le chemin
-  de l’application dépend de votre système d’exploitation) avec l’option levant
-  la restriction d’ouverture de fichiers locaux :
-  `--allow-file-access-from-files`. Exemple de commande complète pour un
-  ordinateur sous MacOS : `"/Applications/Google
-  Chrome.app/Contents/MacOS/Google Chrome" --allow-file-access-from-files`.
-  Ouvrir ensuite dans Chrome le fichier `index.html`.
+images de manuscrits (voir le mode d’emploi que je vous fournis)
 
 ## Intertextualité (*text reuse detection*)
 
