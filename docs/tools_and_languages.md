@@ -239,7 +239,7 @@ version PDF)
   * Structures de données (*classes*) : vector, factor, matrix, array, list,
   data frame/tibble, time series
     * Garrett Grolemund, [R objects](https://rstudio-education.github.io/hopr/r-objects.html)
-    * First Steps in R, [Data structure](http://venus.ifca.unican.es/Rintro/dataStruct.html)
+    * First Steps in R, [Data structure](https://mtceballos.github.io/Rintro/dataStruct.html)
   * [Initiation au langage et objets de R](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor2-R-init.pdf)
   * Kieran Healy, [How to read an R help page](https://socviz.co/appendix.html)
   * [R for Data Science](https://r4ds.hadley.nz/) : [modèle d’un projet d’analyse de données](https://r4ds.hadley.nz/intro)
