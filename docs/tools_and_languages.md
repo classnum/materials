@@ -181,7 +181,7 @@ version PDF)
   * Exemples plus ou moins spectaculaires de styles CSS différents : [CSS Zen Garden](http://www.csszengarden.com)
 * Outils de validation
   * [HTML Validator](https://jsonformatter.org/html-validator)
-  * [HTMLHint](https://htmlhint-playground.netlify.app/)
+  * [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
 ## TEI (et XML)
 
